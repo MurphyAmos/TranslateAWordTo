@@ -38,7 +38,7 @@ Install dependencies (make sure you have Python 3 installed):
 ## Usage
 
 Run the script:
-python3 translateAWord.py
+`python3 translateAWord.py`
 
 When prompted:
 - Enter the word you want to translate  
