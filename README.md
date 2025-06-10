@@ -1,6 +1,6 @@
 # TranslateAWordTo
 
-Simple CLI Python script to translate a single spoken word into a target language using offline support. Designed for fast, basic translations via the `translate` Python module.
+Simple CLI Python script to translate a single spoken word using `sphinx` to a target language using offline support. Designed for fast, basic translations via the `translate` Python module.
 
 ## Features
 
