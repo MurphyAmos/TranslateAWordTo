@@ -27,7 +27,7 @@ class WordTranslate:
             try:    
                 while True:
                     phrase = r.listen(source)    
-                    print("Word To Translate: ", end="")                    
+                    print("Say a Word To Translate: ", end="")                    
                     try:
                         text = r.recognize_sphinx(phrase) 
                         commandManager(text)
