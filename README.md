@@ -1,6 +1,6 @@
 # TranslateAWordTo
 
-Simple CLI Python script to translate a single word into a target language using offline support. Designed for fast, basic translations via the `translate` Python module.
+Simple CLI Python script to translate a single spoken word into a target language using offline support. Designed for fast, basic translations via the `translate` Python module.
 
 ## Features
 
@@ -17,9 +17,9 @@ Example:
 
 -`$ python3 translateAWord.py`
 
--`Enter a word to translate: hello`
+-`Say a word to translate: hello`
 
--`Enter the language to translate to: es`
+-`Enter the language to translate to: Spanish`
 
 -`Translated: hola`
 
